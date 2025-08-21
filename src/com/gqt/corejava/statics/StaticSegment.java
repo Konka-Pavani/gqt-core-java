@@ -1,4 +1,4 @@
-package com.gqt.dog;
+package com.gqt.corejava.statics;
 class Program {
 	int a,b,c;
 	static int p,q,r;
